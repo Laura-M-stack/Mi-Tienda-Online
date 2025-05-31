@@ -38,9 +38,7 @@ Simula una tienda online con productos variados, carrito de compras y proceso de
 
 ## 🔗 Demo
 
-👉 [Ver online en Netlify](https://<URL-NETLIFY>.netlify.app)
-
-> *Reemplazar `<URL-NETLIFY>` por la URL de Netlify cuando lo suba.*
+👉 [Ver online en Netlify](https://mitiendaonlinee.netlify.app/)
 
 ## 📂 Estructura del proyecto
 
